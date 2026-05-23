@@ -5,11 +5,4 @@ int main()
 	printf("Hello World!");
 
 	printf("Repository change!");
-
-	"3rd change!"
-
-	printf("4th change!");
-
-	
-
 }
